@@ -1,0 +1,109 @@
+
+.heading{
+    background-color: rgb(219, 91, 167);
+    height: 70px;
+    font-style: oblique;
+    font-size: larger;
+}
+.head{
+    background-color: rgb(219, 91, 167);
+    height: 70px;
+    color: black;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+}
+.obj1{
+    font-size: larger;
+    font-style: oblique;
+    margin:15px ;
+}
+.obj2{
+    font-size: large;
+    font-style: oblique;
+    margin: 15px;
+}
+.obj3{
+    font-size: large;
+    font-style: oblique;
+    margin:15px ;
+}
+.obj4{
+    font-size: large;
+    font-style: oblique;
+    margin:15px ;
+}
+.obj5{
+    height: 40px;
+    width: 80px;
+    padding-top: 30px;
+}
+.border:hover{
+    border: 2px solid black;
+}
+.box1{
+    height: 10.5cm;
+    width: 8cm;
+    border: 2px solid black;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.img1{
+    height:7cm;
+    width:80% ;
+    margin: auto;
+    box-shadow: 2cm;
+}
+
+.images{
+    display: flex;
+    row-gap: 14px;
+    column-gap: 14px;
+    padding-top: 1cm;
+}
+.images1{
+    display: flex;
+    row-gap: 14px;
+    column-gap: 14px;
+    padding-top: 1cm;
+}
+.pic{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.ct{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 2cm;
+}
+#cost{
+    width: 3cm;
+    height: 1cm;
+    background-color: green;
+    color: aliceblue;
+    border-radius: 0.5cm;
+}
+.bu{
+    padding-left: 2cm;
+    padding-top: 0.5cm;
+}
+.info{
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+    padding-top: 2cm;
+    row-gap: 4cm;
+    margin-top: 0.5cm solid black;
+}
+.r1{
+     font-size: large;
+}
+.r2{
+    font-size: large;
+}
+.pic{
+    background-color: aliceblue;
+}
